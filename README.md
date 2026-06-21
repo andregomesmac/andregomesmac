@@ -11,19 +11,26 @@ Meu objetivo é transformar problemas complexos em código completo, arquitetura
 
 ### 🛠️ Tecnologias, Frameworks e Plataformas
 
-Sendo versátil em todos os ambientes tecnológicos, destaco abaixo as principais ferramentas e frameworks que utilizo para projetar arquiteturas em escala global:
+Sendo versátil em todos os ambientes tecnológicos, destaco abaixo as principais linguagens, ferramentas e frameworks que utilizo para projetar arquiteturas corporativas:
 
 **Linguagens de Programação**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,go,rust,java,cpp,cs" alt="Linguagens de Programação" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,php,js,ts,python,java,go,rust" alt="Linguagens de Programação" />
   </a>
 </p>
 
-**Frameworks Web e Mobile**
+**Front-end & Web**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,nestjs,django,spring" alt="Frameworks Web e Mobile" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular" alt="Front-end e Web" />
+  </a>
+</p>
+
+**Back-end & Frameworks**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,django,spring" alt="Back-end e Frameworks" />
   </a>
 </p>
 
