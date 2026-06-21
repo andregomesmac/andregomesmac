@@ -9,43 +9,74 @@ Meu objetivo é transformar problemas complexos em código completo, arquitetura
 
 ---
 
-### 🛠️ Tecnologias, Frameworks e Plataformas
+### 🛠️ Tecnologias, Plataformas e Ferramentas
 
-Sendo versátil em todos os ambientes tecnológicos, destaco abaixo as principais linguagens, ferramentas e frameworks que utilizo para projetar arquiteturas corporativas:
+Sendo versátil em todos os ambientes tecnológicos, estruturei as camadas do meu ecossistema de trabalho, desde a codificação base até a infraestrutura de redes, inteligência artificial e concepção visual:
 
 **Linguagens de Programação**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,cs,php,js,ts,python,java,go,rust" alt="Linguagens de Programação" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
 </p>
 
-**Front-end & Web**
+**Front-end, Mobile, Web & CMS**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular" alt="Front-end e Web" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,flutter" alt="Front-end e Mobile" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
 
-**Back-end & Frameworks**
+**Back-end, Frameworks & Integrações**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,django,spring" alt="Back-end e Frameworks" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge&logo=json&logoColor=white" alt="API e API Rest" />
+  <img src="https://img.shields.io/badge/IA_Generativa-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generate" />
 </p>
 
-**Cloud, DevOps e Infraestrutura**
+**Design & UI/UX**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,bash" alt="Cloud e DevOps" />
+    <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design e Prototipagem" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/CorelDraw-20CE65?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDraw" />
+</p>
+
+**Versionamento, IDEs & Ambientes de Desenvolvimento**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" alt="Versionamento e IDEs" />
   </a>
 </p>
 
-**Bancos de Dados e Mensageria**
+**Bancos de Dados & Mensageria**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" alt="Bancos de Dados" />
   </a>
+</p>
+
+**Cloud, DevOps, SO & Infraestrutura de Redes**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,linux,bash,windows" alt="Cloud, SO e DevOps" />
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/MikroTik-2E3035?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
+</p>
+
+**Gestão & Produtividade**
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Office" />
 </p>
 
 ---
